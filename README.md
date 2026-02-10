@@ -234,3 +234,7 @@ This project demonstrates how SQL can be used to:
 - MySQL Workbench
 - SQL
 - Relational Database Design
+
+---
+
+⭐ *If you found this project insightful, feel free to star the repository!*
